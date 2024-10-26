@@ -1,0 +1,49 @@
+body {
+    color: white;
+    background: black;
+}
+
+header{
+    margin: 20px;
+}
+
+h1{
+    margin: 20px;
+}
+
+title{
+    margin: 20px;
+}
+
+iframe{
+    margin: 20px;
+}
+
+p{
+    margin: 20px;
+}
+
+h2{
+    margin: 20px;
+}
+
+img{
+    height: 200px;
+}
+
+img{
+    margin: 20px;
+    gap: 10px
+
+}
+
+h3{
+    margin: 20px;
+    border-bottom: solid 1px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
